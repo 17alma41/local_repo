@@ -8,6 +8,3 @@ En este repo estoy aprendiendo a usar los comandos básicos de git:
 ¡Hemos añadido una imagen al repositorio!
 
 ![mi log](image.png)
-
-
-Hola Mundo
